@@ -4,9 +4,13 @@ h1 {
   font-color: blue;
   text-align: center;
 }
-h1 {
+h2 {
   font-family: arial;
   font-size: 40;
-  font-color: blue;
+  text-align: center;
+}
+p {
+  font-family: arial;
+  font-size: 20;
   text-align: center;
 }
