@@ -1,6 +1,12 @@
 h1 {
-  font-family: arial;
+  font-family: arial-black;
   font-size: 55;
+  font-color: blue;
+  text-align: center;
+}
+h1 {
+  font-family: arial;
+  font-size: 40;
   font-color: blue;
   text-align: center;
 }
