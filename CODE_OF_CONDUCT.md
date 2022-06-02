@@ -26,6 +26,7 @@ The following behaviors are expected and requested of all community members:
  * Refrain from demeaning, discriminatory, or harassing behavior and speech.
  * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
  * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
+ * do not hack into other users' accounts
 
 ## 4. Unacceptable Behavior
 
