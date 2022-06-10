@@ -23,3 +23,11 @@ a:link {
   font-family: arial;
   font-size: 20; 
 }
+legend {
+  font-family: arial;
+  font-size: 20;
+}
+input {
+  font-family: arial;
+  font-size: 20;
+}
