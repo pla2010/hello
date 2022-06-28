@@ -31,3 +31,8 @@ input {
   font-family: arial;
   font-size: 20;
 }
+body{
+  font-family: arial;
+  border-color: #008B8B;
+  background-color: #7FFFD4;
+}
