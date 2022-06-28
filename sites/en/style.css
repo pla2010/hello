@@ -13,12 +13,12 @@ p {
   font-family: arial;
   font-size: 20;
 }
-a {
+a{
   font-color: blue;
   font-family: arial;
   font-size: 20;
 }
-a:link {
+a:link{
   font-color: lime;
   font-family: arial;
   font-size: 20; 
